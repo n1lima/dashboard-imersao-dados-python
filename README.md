@@ -8,7 +8,7 @@ O projeto é um dashboard interativo construído com **Streamlit** para analisar
 
 ## Visualização do Dashboard
 
-![Screenshot do Dashboard](<img width="1841" height="831" alt="image" src="https://github.com/user-attachments/assets/05a4b617-d60c-492d-afac-8569727355c9" />
+![Screenshot do Dashboard]("Captura de tela 2025-08-09 020101.png"
 )  
 
 ---
