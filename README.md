@@ -7,6 +7,7 @@ O projeto é um dashboard interativo construído com **Streamlit** para analisar
 ---
 
 ## Visualização do Dashboard
+[Link para o Dashboard](https://dashboard-imersao-dados-com-python-2025.streamlit.app)
 
 ![Screenshot do Dashboard](https://github.com/n1lima/dashboard-imersao-dados-python/blob/main/images/Captura%20de%20tela%202025-08-09%20020101.png)
 
